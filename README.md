@@ -7,7 +7,7 @@ A dark neon palette for Spotifast, with pink accents and the animated hover trea
 Copy [neon.json](./neon.json) into Spotifast's themes directory, keeping the filename as `neon.json`:
 
 - Linux: `~/.config/spotifast/themes/neon.json`
-- Windows: `%APPDATA%\\spotifast\\themes\\neon.json`
+- Windows: `%APPDATA%\spotifast\themes\neon.json`
 - macOS: `~/Library/Application Support/spotifast/themes/neon.json`
 
 Then reload themes from Spotifast or restart the app and select **Neon** in **Settings → Appearance → Theme**.

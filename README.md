@@ -12,6 +12,6 @@ Copy [neon.json](./neon.json) into Spotifast's themes directory, keeping the fil
 
 Then reload themes from Spotifast or restart the app and select **Neon** in **Settings → Appearance → Theme**.
 
-The palette file supplies colors. The animated Neon layout and hover interactions require the corresponding Spotifast application integration; follow the upstream pull request for that support.
+The palette file supplies colors. The animated Neon layout and hover interactions require the corresponding Spotifast application integration proposed in [PR #1028](https://github.com/crmne/spotifast/pull/1028).
 
 Inspired by the vivid, motion-forward feel of osu!lazer and end-4's Hyprland desktop work.
